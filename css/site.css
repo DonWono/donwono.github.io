@@ -471,15 +471,6 @@ h3 {
   object-fit: cover;
 }
 
-.banner .logo-over {
-  position: absolute;
-  left: 50%;
-  top: 46%;
-  width: min(360px, 70%);
-  transform: translate(-50%, -50%);
-  filter: drop-shadow(0 10px 24px rgba(0, 0, 0, 0.55));
-}
-
 body.theme-audissey {
   --bg: #0b1220;
   --bg-elev: #121b2c;
